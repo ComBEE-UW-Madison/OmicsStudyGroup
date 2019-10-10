@@ -24,9 +24,9 @@ Fall 2019 'Omics Study Groups are held on Thursdays from 2-3 PM in the Wisconsin
 
 If you have any suggestions for improving 'Omics Study Group, potential sessions, or leading your own session, please contact the ComBEE team! 
 
-Elizabeth McDaniel: emcdaniel@wisc.edu
-Kirsten Gotting: gotting@wisc.edu
-Mikey Kartje: kartje@wisc.edu
+Elizabeth McDaniel: emcdaniel@wisc.edu  
+Kirsten Gotting: gotting@wisc.edu  
+Mikey Kartje: kartje@wisc.edu  
 
 
 
