@@ -1,4 +1,4 @@
-# ComBEE 'Omics Study Group @ UW-Madison  <img align="right" width="200" src="img/combee-sticker.png">
+# ComBEE 'Omics Study Group @ UW-Madison  <img align="right" width="50" src="img/combee-sticker.png">
 
 Welcome to the ComBEE's 'Omics Study Group held at UW-Madison! We are a group of researchers interested in applying computational genomics techniques to research focussed in ecology and evolution. 
 
