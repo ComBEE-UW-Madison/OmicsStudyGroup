@@ -1,10 +1,4 @@
-<img align="right" width="400" src="https://github.com/ComBEE-UW-Madison/OmicsStudyGroup/blob/master/img/combee.PNG">
-
-<br>
-<br>
-
----
-# ComBEE 'Omics Study Group @ UW-Madison 
+# ComBEE 'Omics Study Group @ UW-Madison  <img align="right" width="400" src="https://github.com/ComBEE-UW-Madison/OmicsStudyGroup/blob/master/img/combee.PNG">
 
 Welcome to the ComBEE's 'Omics Study Group held at UW-Madison! We are a group of researchers interested in applying computational genomics techniques to research focussed in ecology and evolution. 
 
