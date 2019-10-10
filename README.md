@@ -1,4 +1,4 @@
-# ComBEE R Study Group @ UW-Madison 
+# ComBEE 'Omics Study Group @ UW-Madison 
 
 Welcome to the ComBEE's 'Omics Study Group held at UW-Madison repo! 
 
