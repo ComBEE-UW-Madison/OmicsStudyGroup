@@ -1,12 +1,12 @@
+<img align="right" width="400" src="https://github.com/ComBEE-UW-Madison/OmicsStudyGroup/blob/master/img/combee.PNG">
+
+<br>
+<br>
+
+---
 # ComBEE 'Omics Study Group @ UW-Madison 
 
-Welcome to the ComBEE's 'Omics Study Group held at UW-Madison repo! 
-
-![ComBEE](img/combee.PNG)
-
-[Click here for more info about the ComBEE organization website](https://combee-uw-madison.github.io/studyGroup/)
-
-This group of researchers meets bi-weekly to discuss coding in R.
+Welcome to the ComBEE's 'Omics Study Group held at UW-Madison! We are a group of researchers interested in applying computational genomics techniques to research focussed in ecology and evolution. 
 
 ## Join us!
 Sign up for our listserv by sending a blank email to [join-combee-rsg@lists.wisc.edu](mailto:join-combee-rsg@lists.wisc.edu).
@@ -28,6 +28,6 @@ Elizabeth McDaniel: emcdaniel@wisc.edu
 Kirsten Gotting: gotting@wisc.edu  
 Mikey Kartje: kartje@wisc.edu  
 
-
+[Click here for more info about the ComBEE organization website](https://combee-uw-madison.github.io/studyGroup/)
 
 
