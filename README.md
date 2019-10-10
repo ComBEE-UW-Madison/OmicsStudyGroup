@@ -3,7 +3,7 @@
 Welcome to the ComBEE's 'Omics Study Group held at UW-Madison! We are a group of researchers interested in applying computational genomics techniques to research focussed in ecology and evolution. 
 
 ## Join us!
-Sign up for our listserv by sending a blank email to [join-combee-rsg@lists.wisc.edu](mailto:join-combee-rsg@lists.wisc.edu).
+Sign up for our listserv by sending a blank email to [join-combee@lists.wisc.edu](mailto:join-combee@lists.wisc.edu).
 
 ## Upcoming events
 Fall 2019 'Omics Study Groups are held on Thursdays from 2-3 PM in the Wisconsin Institute for Discovery in room 1153/54. 
