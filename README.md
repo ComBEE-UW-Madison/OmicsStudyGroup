@@ -11,10 +11,11 @@ Fall 2019 'Omics Study Groups are held on Thursdays from 2-3 PM in the Wisconsin
 - October 10th: Jenny Bratburd, Comparative Genomics Methods
 - October 17th: Edna Chiang, 16S Amplicon Analyses
 - October 24th: Data Science & Microbiome Hubs, Reference-Based Shotgun Metagenomics
-- October 31st: Elizabeth McDaniel, Annotation Methods and Databases
+- October 31st: CANCELLED
 - November 14th: Ben Peterson, Genome/Metagenome Assembly
 - November 21st: Ben Peterson, Phylogenetics & Tree-thinking
 - December 5th: Elizabeth McDaniel, Best Practices in Metagenomic Binning
+- December 12th: Elizabeth McDaniel, Annotations Databases and Methods
 
 If you have any suggestions for improving 'Omics Study Group, potential sessions, or leading your own session, please contact the ComBEE team! 
 
