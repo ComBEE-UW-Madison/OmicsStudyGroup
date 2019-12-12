@@ -14,8 +14,7 @@ Fall 2019 'Omics Study Groups are held on Thursdays from 2-3 PM in the Wisconsin
 - October 31st: CANCELLED
 - November 14th: Ben Peterson, Genome/Metagenome Assembly
 - November 21st: Ben Peterson, Phylogenetics & Tree-thinking
-- December 5th: Elizabeth McDaniel, Best Practices in Metagenomic Binning
-- December 12th: Elizabeth McDaniel, Annotations Databases and Methods
+- December 12th: Elizabeth McDaniel, "Best" Practices in Metagenomic Binning and Annotation
 
 If you have any suggestions for improving 'Omics Study Group, potential sessions, or leading your own session, please contact the ComBEE team! 
 
