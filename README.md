@@ -11,7 +11,6 @@ Fall 2019 'Omics Study Groups are held on Thursdays from 2-3 PM in the Wisconsin
 - October 10th: Jenny Bratburd, Comparative Genomics Methods
 - October 17th: Edna Chiang, 16S Amplicon Analyses
 - October 24th: Data Science & Microbiome Hubs, Reference-Based Shotgun Metagenomics
-- October 31st: CANCELLED
 - November 14th: Ben Peterson, Genome/Metagenome Assembly
 - November 21st: Ben Peterson, Phylogenetics & Tree-thinking
 - December 12th: Elizabeth McDaniel, "Best" Practices in Metagenomic Binning and Annotation
